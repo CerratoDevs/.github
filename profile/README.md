@@ -1,5 +1,5 @@
 <div align="center">
-<img width="70%" src="https://github.com/Cerrato-Devs/.github/blob/main/profile/Text%20Logo%202.png" alt="Cerrato Logo">
+<img width="70%" src="https://github.com/CerratoDevs/.github/blob/main/profile/Text%20Logo%202.png" alt="Cerrato Logo">
 </div>
 
 # Welcome
